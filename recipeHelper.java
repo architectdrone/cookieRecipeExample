@@ -12,6 +12,7 @@ public class recipeHelper
         double cB = 1.0*batches;
         double cWS = 1.5*batches;
         double eggs = 1.0*batches;
+        
         System.out.println("Cookie Recipe");
         System.out.println(tbsBS+" tsp baking soda");
         System.out.println(tsBP+" tsp baking powder");
